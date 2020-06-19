@@ -1,0 +1,10 @@
+Total number of problems          :  750 (100.0%)
+Total number of questions         :  782
+Total number of correct solutions :   68 (8.7%)
+Total running time                :  108 minutes
+
+Correct solutions in code base    :   53 (6.8%)
+New correct solutions             :   15 (1.9%)
+Failed in code base               : 66f2d22f.json, 3af2c5a8.json, e345f17b.json, 62c24649.json, d19f7514.json, 48131b3c.json, 1b2d62fb.json, 833dafe3.json, bc4146bd.json, c48954c1.json, 6ea4a07e.json, 67e8384a.json, 0c786b71.json, 34b99a2b.json, f2829549.json, 8e2edd66.json, 0c9aba6e.json, 506d28a5.json, 48f8583b.json, ccd554ac.json, 8d5021e8.json, 9f236235.json, 195ba7dc.json, 0520fde7.json, 3428a4f5.json, 0d3d703e.json, 59341089.json, 7fe24cdd.json, 6430c8c4.json, d23f8c26.json, c9f8e694.json, 7953d61e.json, bd4472b8.json, e3497940.json, 66e6c45b.json, dae9d2b5.json, b4a43f3b.json, fafffa47.json, 31d5ba1a.json, 99b1bc43.json, 2072aba6.json, 5d2a5c43.json, 46442a0e.json, 780d0b14.json, 310f3251.json, ce4f8723.json, e133d23d.json
+Found and wrong                   : 5614dbcf.json
+New correct found                 : 1f85a75f.json, e98196ab.json, 44f52bb0.json, 0b148d64.json, a5f85a15.json, 963e52fc.json, 642d658d.json, de1cd16c.json, 1cf80156.json, 88a62173.json, 27a28665.json, f76d97a5.json, 239be575.json, 1190e5a7.json, a79310a0.json

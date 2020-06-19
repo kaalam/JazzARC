@@ -1,0 +1,10 @@
+Total number of problems          :    6 (6.0%)
+Total number of questions         :    7
+Total number of correct solutions :    4 (57.1%)
+Total running time                :    0 minutes
+
+Correct solutions in code base    :    4 (57.1%)
+New correct solutions             :    0 (0.0%)
+Failed in code base               : ed98d772.json, dae9d2b5.json
+Found and wrong                   : 
+New correct found                 : 

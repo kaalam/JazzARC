@@ -1,0 +1,10 @@
+Total number of problems          :   25 (100.0%)
+Total number of questions         :   26
+Total number of correct solutions :    2 (7.7%)
+Total running time                :   12 minutes
+
+Correct solutions in code base    :    0 (0.0%)
+New correct solutions             :    2 (7.7%)
+Failed in code base               : 
+Found and wrong                   : 
+New correct found                 : 1f85a75f.json, c35c1b4c.json

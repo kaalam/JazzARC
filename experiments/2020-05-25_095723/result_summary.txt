@@ -1,0 +1,10 @@
+Total number of problems          :  690 (100.0%)
+Total number of questions         :  713
+Total number of correct solutions :   18 (2.5%)
+Total running time                :  679 minutes
+
+Correct solutions in code base    :    0 (0.0%)
+New correct solutions             :   18 (2.5%)
+Failed in code base               : 
+Found and wrong                   : 7468f01a.json, 5614dbcf.json
+New correct found                 : de1cd16c.json, 642d658d.json, d10ecb37.json, e98196ab.json, 1f85a75f.json, 88a62173.json, 8eb1be9a.json, 44f52bb0.json, 1190e5a7.json, 239be575.json, 9ddd00f0.json, 0b148d64.json, be03b35f.json, 1cf80156.json, a79310a0.json, a5f85a15.json, f76d97a5.json, c35c1b4c.json

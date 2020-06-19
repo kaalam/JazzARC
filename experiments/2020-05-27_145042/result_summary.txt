@@ -1,0 +1,10 @@
+Total number of problems          :  100 (100.0%)
+Total number of questions         :  107
+Total number of correct solutions :   59 (55.1%)
+Total running time                :   11 minutes
+
+Correct solutions in code base    :   59 (55.1%)
+New correct solutions             :    0 (0.0%)
+Failed in code base               : 310f3251.json, ce039d91.json, 0bb8deee.json, 3906de3d.json, 7468f01a.json, 9ddd00f0.json, 2072aba6.json, 46f33fce.json, 00576224.json, 1b2d62fb.json, 5614dbcf.json, 34b99a2b.json, fafffa47.json, 7953d61e.json, e3497940.json, b4a43f3b.json, 9f236235.json, ce4f8723.json, 8d5021e8.json, be03b35f.json, c48954c1.json, 0520fde7.json, 0c9aba6e.json, d23f8c26.json, 48131b3c.json, 6430c8c4.json, d10ecb37.json, bd4472b8.json, 66f2d22f.json, f2829549.json, e133d23d.json, 833dafe3.json, 0d3d703e.json, 0c786b71.json, d19f7514.json, 506d28a5.json, d13f3404.json, 6ea4a07e.json, 3428a4f5.json, dae9d2b5.json, 31d5ba1a.json
+Found and wrong                   : 7468f01a.json, 5614dbcf.json
+New correct found                 : 
