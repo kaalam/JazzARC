@@ -1,4 +1,5 @@
 numpy
+sklearn
 xgboost
 coverage
 codecov
