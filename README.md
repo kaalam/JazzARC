@@ -6,8 +6,8 @@ Proof of Concept Code Generation using Formal Fields applied to the ARC Challeng
 [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-373/)
 [![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 [![codecov](https://codecov.io/gh/kaalam/JazzARC/branch/master/graph/badge.svg)](https://codecov.io/gh/kaalam/JazzARC)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://en.wikipedia.org/wiki/Maintenance)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](http://kaalam.ai)
 
 ## Formal Fields paper and Open Expo slides
 
