@@ -14,8 +14,7 @@ Proof of Concept Code Generation using Formal Fields applied to the ARC Challeng
 We will update this project with links to:
 
   * Formal Fields Paper
-  * Open Expo 2020 presentation [call](https://twitter.com/kaalam_ai/status/1273291838141710336)
-  * Open Expo 2020 presentation (slides)
+  * Open Expo 2020 presentation [slides](https://github.com/kaalam/JazzARC/raw/master/pdf/jazz_openexpo_jun2020.pdf)
   * Stay tuned!
 
 ## License
